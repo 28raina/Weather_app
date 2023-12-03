@@ -1,0 +1,11 @@
+.Infobox{
+    text-align: center;
+}
+.Infobox:hover{
+    cursor: pointer;
+   
+}
+.CardContainer{
+    display: flex;
+    justify-content: center;
+}
